@@ -1,8 +1,8 @@
 .gitattributes
 
-*.so
-*.o
-*.a
+*.dll
+*.obj
+*.exe
 
 manual/manual.html
 
@@ -10,6 +10,9 @@ testes/time.txt
 testes/time-debug.txt
 
 testes/libs/all
+
+bin
+obj
 
 temp
 lua
